@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nicole 👋</h1>
 
-<!--
-**nicolekula/nicolekula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Turning data into business decisions through analytics, machine learning & economics.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="www.linkedin.com/in/nicolekulawika853a2205">LinkedIn</a> •
+  <a href="kulawik.nicole@icloud.com">Email</a>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩 About Me
+
+🎓 M.Sc. Economics, Data & Sustainability
+
+📍 Based in Paris, France
+
+📊 Passionate about transforming complex data into actionable business insights.
+
+💡 My interests include:
+- Data Analytics
+- Machine Learning
+- Business Intelligence
+- Forecasting
+- Econometrics
+
+🌱 Currently improving my skills in predictive analytics, data visualization and modern analytics tools.
+
