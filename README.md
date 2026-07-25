@@ -1,12 +1,20 @@
 <h1 align="center">Hi, I'm Nicole 👋</h1>
 
 <h3 align="center">
-Turning data into business decisions through analytics, machine learning & economics.
+Data Analytics | Machine Learning | Economics
 </h3>
+
+<p align="center">
+Turning data into insights and business decisions.
+</p>
 
 <p align="center">
   <a href="www.linkedin.com/in/nicolekulawika853a2205">LinkedIn</a> •
   <a href="kulawik.nicole@icloud.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analytics+Enthusiast;Machine+Learning+%26+Forecasting;Economics+Graduate;Building+data-driven+solutions" />
 </p>
 ---
 
