@@ -9,7 +9,7 @@ Turning data into insights and business decisions.
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/nicolekulawik">LinkedIn</a> •
+  <a href="www.linkedin.com/in/nicolekulawika853a2205">LinkedIn</a> •
   <a href="mailto:kulawik.nicole@icloud.com">Email</a>
 </p>
 
