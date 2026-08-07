@@ -95,22 +95,12 @@ Applied econometric methods to study gender differences in labor market outcomes
 
 ---
 
-## 📚 Currently Learning
-
-🌱 Advanced Machine Learning
-📊 Data Visualization & Storytelling
-☁️ Modern Analytics Tools & Cloud Technologies
 
 ---
 
 ## 💼 Open To Opportunities
 
-I am currently looking for opportunities as:
 
-* Data Analyst Intern / Junior Data Analyst
-* Business Analyst
-* Junior Data Scientist
-* Analytics Consultant
 
 Interested in projects where **data, economics and business decisions come together**.
 
