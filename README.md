@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicole 👋</h1>
 
 <h3 align="center">
-Data Analyst | Machine Learning | Economics
+Data Analysis | Economics
 </h3>
 
 <p align="center">
