@@ -25,7 +25,7 @@ Turning data into insights, models into decisions, and complexity into solutions
 📍 Based in Paris, France<br>
 🌍 International experience across Germany, France and Australia<br>
 
-I combine **economic analysis, data science and business understanding** to solve real-world problems.
+I combine **economic analysis, data and business understanding** to solve real-world problems.
 
 My background allows me to bridge the gap between:
 
